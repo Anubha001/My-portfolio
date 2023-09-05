@@ -22,7 +22,7 @@ class Footer extends Component {
           >
             <MDBIcon fab icon="linkedin-in" />
           </a>
-          <a href="Https://github.com/Anubha001/react-tech-store," className="social-logo">
+          <a href="Https://github.com/Anubha001," className="social-logo">
             <MDBIcon fab icon="github" />
           </a>
           <a href="https://medium.com/@bhartianubha9" className="social-logo">
